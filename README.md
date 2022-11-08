@@ -24,7 +24,7 @@ This is a captcha generator app
 
 ## 👀 Glance to the Project
 ____
-<img width="801" alt="image" src="https://user-images.githubusercontent.com/71517975/198833582-6deba9ef-50cb-4343-8356-7b7166836746.png">
+<img width="799" alt="image" src="https://user-images.githubusercontent.com/71517975/200548087-41c47f27-5870-4f3d-9b93-1fb47cc4f3df.png">
 
 ____
 
