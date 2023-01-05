@@ -1,7 +1,7 @@
 # hangman
 
 ## 📃 Intro
-This is a captcha generator app
+🎯 Goal: This is a captcha generator app
 
 
 ## ‼ Dependencies
@@ -28,8 +28,4 @@ ____
 
 ____
 
-➡️ Role of MODEL in Hangman
-
 ❗ Important Libraries and Modules: Tkinter
-
-🎯 Primary Goal: ----------------.
